@@ -1,0 +1,3 @@
+class AWelcomeToAtCoder(object):
+    pass
+
